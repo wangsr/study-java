@@ -1,0 +1,7 @@
+field:
+  conf:
+    - a
+    - c
+    - f
+hello:
+  msg: test

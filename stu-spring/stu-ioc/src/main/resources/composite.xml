@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--所有的导入文件,相对于当前的xml-->
+    <!--前导"/"将被忽略-->
+    <!--不推荐使用相对路径-->
+    <import resource="dao.xml"></import>
+    <import resource="/service.xml"></import>
+
+</beans>

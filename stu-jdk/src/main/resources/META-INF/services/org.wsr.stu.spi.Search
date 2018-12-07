@@ -1,0 +1,6 @@
+org.wsr.stu.spi.FileSearch
+#duplicate
+org.wsr.stu.spi.FileSearch
+#invalid
+org.wsr.stu.spi.ErrorSearch
+org.wsr.stu.spi.DatabaseSearch
